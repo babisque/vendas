@@ -1,0 +1,11 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.exe.config
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\bin\Debug\Aula30.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.Form1.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.Properties.Resources.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\Aula30\obj\Debug\Aula30.pdb
